@@ -1,6 +1,8 @@
 # 🔗Friend Request Simulation:
 
-A simple web project demonstrating a basic friend request simulation using **HTML**, **CSS**, and **JavaScript**.
+ 🔹A simple web project demonstrating a basic friend request simulation using **HTML**, **CSS**, and **JavaScript**.
+
+ 🔹Check out my project here: <a href="https://friend-request-simulator.netlify.app/"> Friend Request Simulator </a>
 
 ## ✨ Features:
 - 🔹 A button to toggle between "Add Friend" and "Remove Friend".
